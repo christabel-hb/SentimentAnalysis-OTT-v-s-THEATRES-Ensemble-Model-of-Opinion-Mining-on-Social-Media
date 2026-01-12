@@ -11,4 +11,4 @@ with an LSTM-CNN ensemble model of Opinion Mining. Thus, Results
 categorize users' viewpoints through comments into, “Ott biased” and “Movie
 Theatre biased” illustrated in a pie chart.
 
-<a href="https://drive.google.com/drive/folders/1i9-lX7V_xzsLnLR80Bo74NKkprL7vH0m?usp=sharing"> LINK-TO-THE-RESEARCH-PAPER-AND-THESIS-DOCUMENTATION</a>
+<a href="https://drive.google.com/drive/folders/1i9-lX7V_xzsLnLR80Bo74NKkprL7vH0m?usp=sharing"> LINK-TO-THE-RESEARCH-PAPER-AND-DOCUMENTATION</a>
